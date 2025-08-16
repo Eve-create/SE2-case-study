@@ -12,7 +12,8 @@ const Navbar = () => {
         <ul className="nav-menu">
             <li>About</li>
             <li>Online Fundraising</li>
-            <li>Mobile Photography</li>
+            <li>Gallery</li>
+            <li>Shop</li>
         </ul>
         <div> 
           <ul className="searchProfileCart">

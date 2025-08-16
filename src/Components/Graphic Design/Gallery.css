@@ -1,0 +1,12 @@
+.text-title h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    font: 2em sans-serif;
+}
+.text-title h3 {
+    display: flex;
+    justify-content: center;
+    font:caption;
+}
