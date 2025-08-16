@@ -1,0 +1,36 @@
+.nav-bar {
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 2px 3px -2px rgb(80, 39, 6);
+}
+.nav-bar p {
+    color: brown;
+    font-size: 38px;
+    font-weight: 600;
+}
+.nav-menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 150px;
+    color: grey;
+    font-size: 20px;
+    font-weight: 500;
+}
+.nav-menu li {
+    cursor: pointer;
+}
+.nav-menu li:hover{
+    font-size: 20.2px;
+    color: black;
+}
+.searchProfileCart {
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    list-style: none;
+    gap: 50px;
+    cursor: pointer;
+    margin-top: 50px;
+}
+
